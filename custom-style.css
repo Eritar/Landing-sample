@@ -31,3 +31,13 @@
 	height: 150px;
 	margin: 10px;
 }
+.badge {
+	background: #dd4814;
+}
+.table-custom {
+	width: 50%;
+	text-align: center;
+}
+.no-margin {
+	margin: 0;
+}
